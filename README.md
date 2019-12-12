@@ -58,3 +58,4 @@ We welcome contributions to eddy!  If you would like to contribute, it is as eas
 repository on GitHub, making your changes, and issuing a pull request.  If you have any questions,
 don't hesitate to ask on the mailing list:
 [eddy@googlegroups.com](https://groups.google.com/forum/#!forum/eddy).
+[![Run on Repl.it](https://repl.it/badge/github/eddysystems/eddy)](https://repl.it/github/eddysystems/eddy)
